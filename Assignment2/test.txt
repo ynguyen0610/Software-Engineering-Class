@@ -1,0 +1,6 @@
+2 I am a massive dog person
+-1 I don't like this dog
+-2 what is this dog doing here
+1 these dogs are cute
+-1 this dog is not very cute 
+1 these dogs are small
